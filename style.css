@@ -9,7 +9,7 @@ section{
 }
 .half-width{
     width:50%;
-    padding-left: 10%;
+    padding-left: 2%;
 }
 .orange-color{
     color:orange;
@@ -22,8 +22,9 @@ section{
     border-radius: 5px;
 }
 .half-width img{
-    width:50%;
+    width:80%;
 }
-.Person Image.png{
+.background-image{
     background-image: url(images/7.png);
+    width:70%;
 }
