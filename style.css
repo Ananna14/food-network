@@ -28,3 +28,10 @@ section{
     background-image: url(images/7.png);
     width:70%;
 }
+footer{
+    text-align:center;
+}
+.Recipie Title{
+ background-image: url(images/Project\ Cover.jpg);
+ box-shadow: 10px 10px 10px gray; 
+}
