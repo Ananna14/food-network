@@ -39,6 +39,14 @@ margin-right: 5%;
 padding:20px;
 border-radius:10px;
 }
-.inline-text-add{
-    text-align: center;
+.bottom-margin-added{
+    border:black;
+    background-color: black;
+}
+.white-color{
+    color:white;
+    font-size: medium;
+}
+.gray-color{
+    color:gray;
 }
