@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin:0;
 }
-section{
+.flexible-container{
     display:flex;
     margin: 150px;
     background-position: right;
@@ -31,7 +31,10 @@ section{
 footer{
     text-align:center;
 }
-.Recipie Title{
- background-image: url(images/Project\ Cover.jpg);
- box-shadow: 10px 10px 10px gray; 
+.recipie-title{
+box-shadow: 10px 10px 10px gray;
+width:30%;
+margin-left: 5%;
+margin-right: 5%;
+padding:20px;
 }
