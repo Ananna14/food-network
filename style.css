@@ -9,7 +9,7 @@ body{
 }
 .half-width{
     width:50%;
-    padding-left: 2%;
+    padding-left: 10%;
 }
 .orange-color{
     color:orange;
@@ -26,7 +26,7 @@ body{
 }
 .background-image{
     background-image: url(images/7.png);
-    width:70%;
+    width:80%;
 }
 footer{
     text-align:center;
@@ -37,7 +37,6 @@ width:30%;
 margin-left: 5%;
 margin-right: 5%;
 padding:20px;
-border-radius:10px;
 }
 .bottom-margin-added{
     border:black;
@@ -49,4 +48,7 @@ border-radius:10px;
 }
 .gray-color{
     color:gray;
+}
+.images-control{
+    width: 250px;
 }
