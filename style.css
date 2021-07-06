@@ -6,10 +6,11 @@ body{
     display:flex;
     margin: 150px;
     background-position: right;
+
 }
 .half-width{
-    width:50%;
     padding-left: 10%;
+
 }
 .orange-color{
     color:orange;
@@ -26,14 +27,15 @@ body{
 }
 .background-image{
     background-image: url(images/7.png);
-    width:80%;
+    margin:0;
 }
 footer{
     text-align:center;
+    
 }
 .recipie-title{
 box-shadow: 10px 10px 10px gray;
-width:30%;
+width:50%;
 margin-left: 5%;
 margin-right: 5%;
 padding:20px;
